@@ -1,0 +1,12 @@
+console.log(alert("Welcome!"));
+console.log(prompt("What's your name?"));
+console.log(prompt("What's your surname?"));
+console.log(prompt("What is your father's name?"));
+console.log(prompt("When is your birthday?"));
+console.log(prompt("How many family members do you have?"));
+console.log(prompt("Enter your region?"));
+console.log(prompt("Enter your district?"));
+console.log(prompt("Enter your home address?"));
+console.log(prompt("Where do you work?"));
+console.log(confirm("Do you like our questions?"));
+console.log(alert("Thanks for the info"));
